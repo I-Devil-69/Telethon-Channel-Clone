@@ -1,7 +1,7 @@
 class Config():
-    API_ID = ""
-    API_HASH = ""
+    API_ID = "29419742"
+    API_HASH = "d2ffa892d1c47a8ad81d3d49fdf4f7b1"
     PHONE_NUMBER = "+91987654321"
-    NAME = "GreyTime"
-    SRC_CHAT_ID = -1001234567890
-    DEST_CHAT_ID = -1001234567891
+    NAME = "Demon"
+    SRC_CHAT_ID = -1002129445979
+    DEST_CHAT_ID = -1002389846563
